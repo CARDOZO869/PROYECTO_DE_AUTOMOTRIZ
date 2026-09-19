@@ -3,4 +3,4 @@ Sistema web que optimiza todas las operaciones de tu taller automotriz en un sol
 ## 👥 Equipo de Desarrollo
 
 - **Juan sebastian medina cardozo**
-- - **Jeison fernando joaquin rodriguez**
+-  **Jeison fernando joaquin rodriguez**
